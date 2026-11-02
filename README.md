@@ -4,8 +4,6 @@
 Relatório em Power BI com 5 páginas que analisa as vendas de uma empresa por
 categoria, fabricante, segmento e região, com navegação por botões.
 
-> Projeto desenvolvido durante o curso gratuito de Power BI da Data Science
-> Academy (Mini-Projeto 2).
 
 ## Perguntas respondidas
 
