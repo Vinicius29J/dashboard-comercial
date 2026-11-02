@@ -1,5 +1,4 @@
 # Dashboard comercial – performance de vendas
-# Dashboard comercial – performance de vendas
 
 Relatório em Power BI com 5 páginas que analisa as vendas de uma empresa por
 categoria, fabricante, segmento e região, com navegação por botões.
